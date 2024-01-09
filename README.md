@@ -33,4 +33,4 @@ yarn install
 yarn dev
 ```
 Developed By 
-- [Naimul Islam](https://facebook.com/naimul.dev).
+- [Naimul Islam](https://facebook.com/naimul.dev)
