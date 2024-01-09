@@ -16,19 +16,19 @@ composer install
 ```
 composer update
 ```
-4.Create a .env file
+4. Create a .env file
 ```
 cp .env.example .env
 ```
-5.Generate an app key
+5. Generate an app key
 ```
 php artisan key:generate
 ```
-6.Install the node dependencies
+6. Install the node dependencies
 ```
 yarn install
 ```
-7.Compile the assets
+7. Compile the assets
 ```
 yarn dev
 ```
