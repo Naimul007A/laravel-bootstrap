@@ -28,7 +28,7 @@ composer install
 ```
 
 3. Update dependencies
-   #if need
+   #if needed
 
 ```
 composer update
@@ -39,6 +39,8 @@ composer update
 ```
 cp .env.example .env
 ```
+
+#Edit the .env file
 
 5. Generate an app key
 

@@ -3,9 +3,8 @@
         {{ __('Dashboard') }}
     </x-slot>
     <div class="container">
-        <div class="row justify-content-center">
+        <div class="row justify-content-center align-items-center">
             <div class="col-md-8">
-                <h1 class="bg-info">{{ __('Dashboard') }}</h1>
                 <div class="card">
                     <div class="card-header">{{ __('Dashboard') }}</div>
                     <div class="card-body">
